@@ -1,2 +1,1 @@
 MyFirstTextForBranch
-MyFirstTextForBranch 
